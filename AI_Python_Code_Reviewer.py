@@ -102,5 +102,6 @@ if st.button("🚀 Generate Review"):
 
 st.markdown("""
     ---
-    Developed by Joydeb Pal
+    Developed by Aayushi Mulatkar
+    
 """)
